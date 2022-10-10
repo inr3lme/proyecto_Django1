@@ -1,3 +1,4 @@
 venv-django
 info.txt
 __pycache__
+db.sqlite3
